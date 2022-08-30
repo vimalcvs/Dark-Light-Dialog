@@ -1,0 +1,7 @@
+<resources>
+    <style name="AppThemes" parent="Theme">
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

@@ -1,0 +1,283 @@
+<resources>
+    <string name="app_name">Light Dark Mode Demo</string>
+    <string name="welcome_to_app_mode">Welcome To App Mode</string>
+    <string name="main_activity">Main Activity</string>
+
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="system_mode">System UI Mode</string>
+    <string name="the_night_has_fallen">The Night has Fallen</string>
+    <string name="male">Male</string>
+    <string name="choose_your_gender">Choose Your Gender</string>
+    <string name="female">Female</string>
+    <string name="No">No</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="multiautocompletetextview">MultiAutoCompleteTextView</string>
+    <string name="save">Save</string>
+
+    <string name="bottom_sheet_peek">Bottom Sheet Peek</string>
+    <string name="bottom_sheet_content">Bottom Sheet Content</string>
+    <string name="STATE_DRAGGING">STATE DRAGGING</string>
+    <string name="STATE_EXPANDED">STATE EXPANDED</string>
+    <string name="STATE_COLLAPSED">STATE COLLAPSED</string>
+    <string name="STATE_HALF_EXPANDED">STATE HALF EXPANDED</string>
+    <string name="STATE_HIDDEN">STATE HIDDEN</string>
+    <string name="STATE_SETTLING">STATE SETTLING</string>
+
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="textview">TextView</string>
+
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="app_name_color"><font fgcolor='#FF0000'>PDF </font>Reader</string>
+    <string name="img_to_pdf"><font fgcolor='#FF0000'>Img</font> to PDF</string>
+
+    <!-- Settings -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannot_print_malformed_pdf">Cannot print a malformed PDF file</string>
+    <string name="cannot_print_unknown_error">Cannot print PDF file, Unknown error has occurred</string>
+    <string name="cant_print_password_protected_pdf">Cannot print a password protected PDF file</string>
+    <string name="cant_share_file">"Can't share file"</string>
+    <string name="device_does_not_support_printing">Your device does not support printing</string>
+    <string name="enter_page_number">Enter page number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="print">Print</string>
+    <string name="share">Share</string>
+    <string name="share_this_file_via">Share this file via</string>
+    <string name="list_sort">Sort</string>
+    <string name="delete_file">Delete File</string>
+    <string name="details">Details:</string>
+    <string name="search_menu_title">Search</string>
+
+    <string name="more">More</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="reader_file_name">File Name</string>
+    <string name="reader_storage_path">Storage path</string>
+    <string name="reader_gallery_last_modified">Last modified</string>
+    <string name="file_size_lower_case">File size</string>
+    <string name="reader_water_welcome">Welcome to</string>
+    <string name="reader_welcome">Read and edit all your PDF files in one place, anytime, anywhere.</string>
+    <string name="reader_action_continue">Continue</string>
+    <string name="reader_privacy_policy_tip">By tapping \"CONTINUE\", you indicate that you have read our <a href="https://sites.google.com/view/privacy-policy-trend-wallpaper"><font fgcolor='#FF0000'><b>Privacy Policy.</b></font></a></string>
+    <string name="browse_more_file">Browse More File</string>
+    <string name="rate_us">Rate us</string>
+    <string name="send_feedback">Feedback &amp; Suggestion</string>
+    <string name="share_this_app">Share App</string>
+    <string name="lib_rate_btn_go_market">Rate on Google play</string>
+    <string name="lib_rate_btn_rate">Rate</string>
+    <string name="lib_rate_dialog_tip">We would be very grateful if you can rate us.</string>
+    <string name="lib_rate_dialog_title">Thank you for your support!</string>
+    <string name="lib_rate_five_stars_confirm_tip">Other users will benefit from your review. \nPlease leave your review on Google Play.</string>
+    <string name="lib_rate_five_stars_tip">The best we can get</string>
+    <string name="lib_rate_leave_feedback">Your feedback is welcome.</string>
+    <string name="lib_rate_like_you">Much appreciated!</string>
+    <string name="lib_rate_oh_no">Oh, we\'re sorry…</string>
+    <string name="lib_rate_thanks_feedback">Thanks for your feedback.</string>
+    <string name="reader_split_pdf">Split PDF</string>
+    <string name="reader_go_to_page">Go to page</string>
+    <string name="reader_rename">Rename PDF</string>
+    <string name="reader_enter_file_name">Enter file name</string>
+    <string name="reader_cancel">Cancel</string>
+    <string name="reader_already_in_use">This name is already in use.</string>
+    <string name="dialog_delete_file">Are you sure you want to delete the selected item(s)?</string>
+    <string name="reader_sort_by">Sort by</string>
+    <string name="reader_sort_by_name">Name</string>
+    <string name="reader_sort_by_name_a_z">A-Z</string>
+    <string name="reader_sort_by_name_z_a">Z-A</string>
+    <string name="reader_sort_order_big_small">large to small</string>
+    <string name="reader_sort_order_small_big">small to large</string>
+    <string name="reader_gallery_last_modified_new_to_old">new to old</string>
+    <string name="reader_gallery_last_modified_old_to_new">old to new</string>
+    <string name="feedback_btn_submit">Submit</string>
+    <string name="feedback_please_tell_more">Please tell us more details so that we can locate and solve your problem faster (at least 6 characters)</string>
+    <string name="feedback_tell_us_your_problem">Tell us the problem you encountered</string>
+    <string name="crashes_bugs"><![CDATA[Crashes & Bugs]]></string>
+    <string name="reader_search_hint">Search…</string>
+    <string name="file_date">File date</string>
+    <string name="file_time">File time</string>
+    <string name="remove_from_bookmark">Remove from Bookmark</string>
+    <string name="add_to_bookmark">Add to Bookmark</string>
+    <string name="no_result">No result</string>
+    <string name="no_file_yet">No file yet</string>
+    <string name="fb_type">Type</string>
+    <string name="choose_to_submit">Please choose one item to submit</string>
+    <string name="remove_password_des">The file will no longer be protected.</string>
+    <string name="password">Password</string>
+    <string name="pwd_error">Wrong password</string>
+    <string name="action_ok">OK</string>
+    <string name="go_to_page">Go to page</string>
+    <string name="enter_page_num">Enter page number (%1$s-%2$s)</string>
+    <string name="total_pages_are">There are %s pages in total</string>
+    <string name="rotation">Rotation</string>
+    <string name="convert_to_pdf">Convert to PDF</string>
+
+
+    <string name="tap">Tap</string>
+    <string name="to_add_image_files">to add image files</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="save_pdf">Save PDF</string>
+    <string name="select_the_page_orientation">Select the page orientation</string>
+    <string name="page_size">Page Size</string>
+    <string name="margin">Margin</string>
+    <string name="compression">Compression</string>
+    <string name="secure_pdf">Secure PDF</string>
+    <string name="_0">0%</string>
+    <string name="modified">Modified</string>
+    <string name="name">Name</string>
+    <string name="size">Size</string>
+    <string name="no_item_selected">0 item selected</string>
+    <string name="select_all">Select all</string>
+    <string name="pdf_create">PDF create</string>
+    <string name="please_wait_processing">Processing please wait</string>
+    <string name="converted_to_pdf_successfully">Converted to PDF successfully!</string>
+    <string name="tap_again_to_exit">Tap again to exit</string>
+    <string name="open">Open</string>
+    <string name="no_bookmark">No Bookmark</string>
+    <string name="rename_file">Rename File</string>
+</resources>

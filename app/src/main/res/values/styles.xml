@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="materialAlertDialogTheme" parent="ThemeOverlay.Material3.MaterialAlertDialog.Centered">
+        <item name="buttonBarPositiveButtonStyle">@style/Widget.Material3.Button.OutlinedButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/Widget.Material3.Button.ElevatedButton</item>
+    </style>
+
+</resources>
