@@ -1,41 +1,17 @@
-{ "PDFList":[
-  {
-    "id":"1",
-    "pdf_name":"Vimal",
-    "img_url":"https://technovimal.in/apps/ssc/img/img2.png",
-    "pdf_url":"https://technovimal.in/apps/ssc/pdf/1.pdf",
-    "read_time":"4.45"
-  },
-  {
-    "id":"2",
-    "pdf_name":"Vimal",
-    "img_url":"https://technovimal.in/apps/ssc/img/img2.png",
-    "pdf_url":"https://technovimal.in/apps/ssc/pdf/1.pdf",
-    "read_time":"4.45"
-  },
-
-  {
-    "id":"3",
-    "pdf_name":"Vimal",
-    "img_url":"https://technovimal.in/apps/ssc/img/img2.png",
-    "pdf_url":"https://technovimal.in/apps/ssc/pdf/1.pdf",
-    "read_time":"4.45"
-  },
-
-  {
-    "id":"4",
-    "pdf_name":"Vimal",
-    "img_url":"https://technovimal.in/apps/ssc/img/img2.png",
-    "pdf_url":"https://technovimal.in/apps/ssc/pdf/1.pdf",
-    "read_time":"4.45"
-  },
-  {
-    "id":"5",
-    "pdf_name":"Vimal",
-    "img_url":"https://technovimal.in/apps/ssc/img/img2.png",
-    "pdf_url":"https://technovimal.in/apps/ssc/pdf/1.pdf",
-    "read_time":"4.45"
-  }
+[
+ {
+ “title”: “Dawn of the Planet of the Apes”,
+ “rating”: 8.3,
+ “releaseYear”: 2014
+ },
+   {
+ “title”: “Dawn of the Planet of the Apes”,
+ “rating”: 8.3,
+ “releaseYear”: 2014
+ },
+   {
+ “title”: “Dawn of the Planet of the Apes”,
+ “rating”: 8.3,
+ “releaseYear”: 2014
+ },
 ]
-}
-
