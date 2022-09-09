@@ -1,7 +1,77 @@
 [
- {
- "title": "Dawn of the Planet of the Apes",
- "rating": 8.3,
- "releaseYear": 2014
- },
+    {
+        "title": "Dawn of the Planet of the Apes",
+        "rating": 8.3,
+        "releaseYear": 2014
+    },
+    {
+        "title": "District 9",
+        "rating": 8,
+        "releaseYear": 2009
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "rating": 6.3,
+        "releaseYear": 2014
+    },
+    {
+        "title": "X-Men: Days of Future Past",
+        "rating": 8.4,
+        "releaseYear": 2014
+    },
+    {
+        "title": "The Machinist",
+        "rating": 7.8,
+        "releaseYear": 2004
+    },
+    {
+        "title": "The Last Samurai",
+        "rating": 7.7,
+        "releaseYear": 2003
+    },
+    {
+        "title": "The Amazing Spider-Man 2",
+        "rating": 7.3,
+        "releaseYear": 2014
+    },
+    {
+        "title": "Tangled",
+        "rating": 7.9,
+        "releaseYear": 2010
+    },
+    {
+        "title": "Rush",
+        "rating": 8.3,
+        "releaseYear": 2013
+    },
+    {
+        "title": "Drag Me to Hell",
+        "rating": 6.7,
+        "releaseYear": 2009
+    },
+    {
+        "title": "Despicable Me 2",
+        "rating": 7.6,
+        "releaseYear": 2013
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "rating": 8.2,
+        "releaseYear": 2003
+    },
+    {
+        "title": "A Bug's Life",
+        "rating": 7.2,
+        "releaseYear": 1998
+    },
+    {
+        "title": "Life of Brian",
+        "rating": 8.9,
+        "releaseYear": 1972
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "rating": 8.2,
+        "releaseYear": 2010
+    }
 ]
