@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Dawn of the Planet of the Apes",
+        "rating": 8.3,
+        "releaseYear": 2014
+    },
+    {
+        "hindi": "District 9",
+        "id": 8,
+        "releaseYear": 2009
+    },
+    {
+        "hindi": "Transformers: Age of Extinction",
+        "id": 6.3,
+        "english": 2014
+    },
+    {
+        "hindi": "X-Men: Days of Future Past",
+        "id": 8.4,
+        "english": 2014
+    },
+    {
+        "hindi": "The Machinist",
+        "id": 7.8,
+        "english": 2004
+    },
+    {
+        "hindi": "The Last Samurai",
+        "id": 7.7,
+        "english": 2003
+    },
+    {
+        "hindi": "The Amazing Spider-Man 2",
+        "id": 7.3,
+        "english": 2014
+    },
+    {
+        "hindi": "Tangled",
+        "id": 7.9,
+        "english": 2010
+    },
+    {
+        "hindi": "Rush",
+        "id": 8.3,
+        "english": 2013
+    },
+    {
+        "hindi": "Drag Me to Hell",
+        "id": 6.7,
+        "english": 2009
+    },
+    {
+        "hindi": "Despicable Me 2",
+        "id": 7.6,
+        "english": 2013
+    },
+    {
+        "hindi": "Kill Bill: Vol. 1",
+        "id": 8.2,
+        "english": 2003
+    },
+    {
+        "hindi": "A Bug's Life",
+        "id": 7.2,
+        "english": 1998
+    },
+    {
+        "hindi": "Life of Brian",
+        "id": 8.9,
+        "english": 1972
+    },
+    {
+        "hindi": "How to Train Your Dragon",
+        "id": 8.2,
+        "english": 2010
+    }
+]
